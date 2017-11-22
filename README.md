@@ -1,3 +1,30 @@
-Recently joined OpenGenus project and thought they may be able to help to determine resources for those who are self taught.  Adding contributions.md to list resources.
+# SelfTaught.work Website
 
-I think this is a perfect project for JAMStack and Netlify CMS.
+## Getting Started
+
+We are still in the design phase of this project.  Details are to come.
+
+### Prerequisites
+
+### Installing
+
+## Tests
+
+## Deployment
+
+## Technologies Used
+
+* HTML
+* CSS
+* Javascript ES2015/ES6
+* Babel
+* React
+* Webpack
+* Node.js/NPM
+* BrowserSync
+
+## Licence 
+
+## Acknowledgments
+
+
