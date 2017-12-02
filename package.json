@@ -1,0 +1,26 @@
+{
+  "name": "selftaught.work",
+  "version": "0.1.0",
+  "description": "A project bringing resources together for those who wish to self teach themselves a new career",
+  "main": "index.js",
+  "scripts": {
+    "start": "httpster -d ./dist -p 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamayd/selftaught.work.git"
+  },
+  "author": "Adam Ayd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamayd/selftaught.work/issues"
+  },
+  "homepage": "https://github.com/adamayd/selftaught.work#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0"
+  }
+}
