@@ -1,5 +1,9 @@
 # SelfTaught.work Website
 
+## Notice - April 2018 
+
+Rebuilding project from ground up using React 16 to get to MVP (minimum viable product). 
+
 ## Getting Started
 
 We are still in the design phase of this project.  Details are to come.
@@ -14,16 +18,13 @@ We are still in the design phase of this project.  Details are to come.
 
 ## Technologies Used
 
-* HTML
-* CSS
-* Javascript ES2015/ES6
-* Babel
-* React
-* Webpack
-* Node.js/NPM
-* BrowserSync
+* React 16
+* Create React App
+* Firebase
 
-## Licence 
+## Licence
+
+ISC 
 
 ## Acknowledgments
 
