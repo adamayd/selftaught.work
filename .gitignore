@@ -28,3 +28,4 @@ yarn-error.log*
 haters/
 variables.env
 variables.env.now
+/public
