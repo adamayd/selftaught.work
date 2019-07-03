@@ -1,8 +1,8 @@
 # SelfTaught.work Website
 
-## Notice - April 2018 
+## Notice - July 2019
 
-Rebuilding project from ground up using React 16 to get to MVP (minimum viable product). 
+Rebuilding project from using Wes Bos' Learn Node course starter files as a boilerplate
 
 ## Getting Started
 
@@ -18,13 +18,14 @@ We are still in the design phase of this project.  Details are to come.
 
 ## Technologies Used
 
-* React 16
-* Create React App
-* Firebase
+* Node
+* Express
+* Mongo DB
+* Pug
 
 ## Licence
 
-ISC 
+MIT
 
 ## Acknowledgments
 
