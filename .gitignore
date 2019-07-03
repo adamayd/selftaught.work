@@ -1,7 +1,6 @@
 .DS_Store
 config.js
 node_modules
-# See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
@@ -22,3 +21,10 @@ node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# project specific
+*.log
+.idea
+haters/
+variables.env
+variables.env.now

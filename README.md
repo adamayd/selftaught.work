@@ -1,32 +1,27 @@
-# SelfTaught.work Website
+## What is this?
 
-## Notice - July 2019
+Just you wait folks!
 
-Rebuilding project from using Wes Bos' Learn Node course starter files as a boilerplate
+## Sample Data
 
-## Getting Started
+To load sample data, run the following command in your terminal:
 
-We are still in the design phase of this project.  Details are to come.
+```bash
+npm run sample
+```
 
-### Prerequisites
+If you have previously loaded in this data, you can wipe your database 100% clean with:
 
-### Installing
+```bash
+npm run blowitallaway
+```
 
-## Tests
+That will populate 16 stores with 3 authors and 41 reviews. The logins for the authors are as follows:
 
-## Deployment
-
-## Technologies Used
-
-* Node
-* Express
-* Mongo DB
-* Pug
-
-## Licence
-
-MIT
-
-## Acknowledgments
+|Name|Email (login)|Password|
+|---|---|---|
+|Wes Bos|wes@example.com|wes|
+|Debbie Downer|debbie@example.com|debbie|
+|Beau|beau@example.com|beau|
 
 
